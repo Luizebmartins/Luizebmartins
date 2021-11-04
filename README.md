@@ -1,16 +1,20 @@
-### Hi there 👋
 
-<!--
-**Luizebmartins/Luizebmartins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hello! I'm Luiz Martins</h1>
+<p align="center">
+  I am from Brazil and currently a student of Computer Science at Universidade Federal de Itajubá.
+ <p/>
+<p align="center">
+  <a href="mailto:luizedbmartins@gmail.com?
+    subject=MessageTitle&amp;
+    body=Message Content">
+    <img src="https://img.shields.io/static/v1?label=Gmail&message=luizedbmartins@gmail.com&color=EA4335&style=for-the-badge&logo=Gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/luiz-martins-ab58a31a9/">
+    <img src="https://img.shields.io/static/v1?label=LinkedIn&message=Luiz%20Martins&color=0077B5&style=for-the-badge&logo=LinkedIn">
+  </a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+<h2 align="center"> GitHub Stats <h2/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luizebmartins&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luizebmartins&layout=compact&langs_count=7&theme=dracula"/>
